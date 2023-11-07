@@ -28,5 +28,6 @@
 + `wireshark` - almost the only way to solve CTF
   + File -> Export Objects
 + `tcpflow -r filename.pcap` - to extract all pocket streams
++ python scapy
 ## Disk Image - .img
 + Autopsy
