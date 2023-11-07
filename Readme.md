@@ -25,9 +25,9 @@
 + `pdftotext filename.pdf` - to extract text from pdf file -> `strings`
 + `pdfdetach -list filename.pdf` - to show embeded files
 ## PCAP
-+ `wireshark` - almost the only way to solve CTF
++ `wireshark filename.pcap` - almost the only way to solve CTF
   + File -> Export Objects
 + `tcpflow -r filename.pcap` - to extract all pocket streams
-+ python scapy
++ `python scapy`
 ## Disk Image - .img
 + Autopsy
