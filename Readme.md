@@ -29,8 +29,12 @@
 + `pdfdetach -list filename.pdf` - to show embeded files
 ## PCAP
 + `wireshark filename.pcap` - almost the only way to solve CTF
-  + File -> Export Objects
+  + File -> Export Objects 
 + `tcpflow -r filename.pcap` - to extract all pocket streams
 + `python scapy` - Python library to work with pcap/pcapng files
+  + ICMP tasks
+    + Decode Raw part
+    + Decode id part
+    + Decode lenght part
 ## Disk Image - .img
 + Autopsy
