@@ -14,6 +14,7 @@
 + LSB can be in any file, so use `GBS` to make image from file and then use `stegsolve.jar`
 + https://www.asciitohex.com/ - tool to decode different formats
 + https://gchq.github.io/CyberChef/ - also same tool
++ https://hexed.it/ - tool to edit hex files EASIER!!!!!
 ## Images/GIFs
 + Check the image, flag can be hidden right in front of you
 + Check google image search and try to check it with Stegsolve.jar
