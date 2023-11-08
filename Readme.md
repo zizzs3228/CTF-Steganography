@@ -19,6 +19,7 @@
 + `zsteg -a filename.png` - to extract all possible hidden strings from png/GIF file
 + `- java -jar stegsolve.jar` - the most powerfull instrument for images/GIFs
 + `convert -h` - tool to cut and work with GIFs/images
++ https://onlinepngtools.com/ - many tools, which can be helpfull for stega
 ## Audio
 + Sound Visualizer (Windows)
 + Audacity (Windows)
