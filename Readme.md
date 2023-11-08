@@ -11,6 +11,8 @@
 + `hexeditor filename.png` - to open hex of file and check if header is right and hight+width is also right
 + `stegcracker filename wordlist` - to bruteforce steghide tool
 + LSB can be in any file, so use `GBS` to make image from file and then use `stegsolve.jar`
++ https://www.asciitohex.com/ - tool to decode different formats
++ https://gchq.github.io/CyberChef/ - also same tool
 ## Images/GIFs
 + Check the image, flag can be hidden right in front of you
 + Check google image search and try to check it with Stegsolve.jar
