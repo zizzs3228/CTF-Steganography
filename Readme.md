@@ -20,6 +20,7 @@
 ## Audio
 + Sound Visualizer (Windows)
 + Audacity (Windows)
++ QSSTV (Windows)
 ## PDF
 + `pdfcracker` - to crack PDFs
 + `pdf-parser -v filename.pdf` - to parse everything from pdf file
