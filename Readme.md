@@ -41,6 +41,7 @@
     + Decode Raw part
     + Decode id part
     + Decode lenght part
-## Disk Image - .img
+## Disk Images/Virtual machines/memory dumps
 + Autopsy
 + tsk_recover
++ volatility py
