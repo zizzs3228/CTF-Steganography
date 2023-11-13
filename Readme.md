@@ -10,6 +10,7 @@
 + `steghide --extract -sf filename` - steg extraction (passphrase required)
 + `hexeditor filename.png` - to open hex of file and check if header is right and hight+width is also right
 + `stegcracker filename wordlist` - to bruteforce steghide tool
++ `stegseek` - same as stegcracker
 + `snowflake` - tool for decoding SPACES and TABS
 + `binascii python` - python library to work with hex-files
 + LSB can be in any file, so use `GBS` to make image from file and then use `stegsolve.jar`
@@ -44,6 +45,13 @@
     + Decode id part
     + Decode lenght part
 ## Disk Images/Virtual machines/memory dumps
-+ Autopsy
++ Autopsy - linux
 + tsk_recover
-+ volatility py
++ volatility py - python
++ Hetman Partition Recovery - Windows
++ R-Studio - Windows
++ EaseUs Data Recovery Wizard - Windows
++ Disk Drill - Windows
+## Other resources about forensics and stega
++ https://github.com/shadawck/awesome-anti-forensic/blob/master/README.md
++ https://habr.com/ru/companies/hetmansoftware/articles/553866/
