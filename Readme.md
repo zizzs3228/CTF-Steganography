@@ -48,10 +48,10 @@
 + Autopsy - linux
 + tsk_recover
 + volatility py - python
-+ Hetman Partition Recovery - Windows
-+ R-Studio - Windows
-+ EaseUs Data Recovery Wizard - Windows
-+ Disk Drill - Windows
++ Hetman Partition Recovery - disk recovery Windows
++ R-Studio - disk recovery Windows
++ EaseUs Data Recovery Wizard - disk recovery Windows
++ Disk Drill - disk recovery Windows
 ## Other resources about forensics and stega
 + https://github.com/shadawck/awesome-anti-forensic/blob/master/README.md
 + https://habr.com/ru/companies/hetmansoftware/articles/553866/
