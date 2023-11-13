@@ -55,3 +55,4 @@
 ## Other resources about forensics and stega
 + https://github.com/shadawck/awesome-anti-forensic/blob/master/README.md
 + https://habr.com/ru/companies/hetmansoftware/articles/553866/
++ https://github.com/DominicBreuker/stego-toolkit/tree/master
